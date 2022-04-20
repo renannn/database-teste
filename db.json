@@ -2,13 +2,23 @@
   "users": [
     {
       "id": 1,
-      "Nome": "Renan Marcel Paulino Leite"
+      "Nome": "Renan Marcel Paulino Leite",
+      "Modules": [1,2]
+    },
+    {
+      "id": 2,
+      "Nome": "Vanessa de Cassia Cardia",
+      "Modules": [2]
     }
   ],
-  "modulos": [
+  "modules": [
     {
         "id": 1,
         "Nome": "Administrador"
+    },
+    {
+        "id": 2,
+        "Nome": "CRM"
     }
   ]
 }
